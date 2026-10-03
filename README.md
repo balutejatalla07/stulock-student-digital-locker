@@ -1,19 +1,42 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🔐 Stulock — Student Digital Locker
 
-# Run and deploy your AI Studio app
+A secure, modern, and mobile-first digital locker designed for students to store, organize, and manage important academic documents in one place.
 
-This contains everything you need to run your app locally.
-https://ai.studio/apps/f4bb12ae-f9fc-427b-a73f-547d265a0cfa
+## ✨ Overview
 
-## Run Locally
+Stulock is a student-focused digital document management application that provides a convenient and secure way to keep important documents organized.
 
-**Prerequisites:**  Node.js
+Instead of keeping certificates, academic records, application documents, and other files scattered across different devices and folders, Stulock brings them together into one centralized digital locker.
 
+## 🚀 Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 🔐 Secure user authentication
+- 📁 Digital document storage and organization
+- 📄 Upload and manage documents
+- 📦 Create application document packs
+- 🔎 Easy document access
+- 📱 Mobile-first responsive interface
+- 🎨 Premium and clean user interface
+- 🔒 Privacy-focused design
+- ⚡ Fast and modern web experience
+
+## 🛠️ Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Firebase
+- Git & GitHub
+
+## 📂 Project Structure
+
+```text
+stulock-student-digital-locker/
+├── src/
+├── public/
+├── .gitignore
+├── .env.example
+├── package.json
+├── tsconfig.json
+└── README.md
